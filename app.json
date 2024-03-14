@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Zomato-Clone",
+    "slug": "Zomato-Clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/zologo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashzomato.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ff3042"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
